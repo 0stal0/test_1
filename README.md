@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # scheduler_1
 >>>>>>> d5925d28d1c1bc51010dda0e9350cb12e12d5f35
+=======
+# test_1
+>>>>>>> origin/main
